@@ -1,10 +1,26 @@
 Apprentice
 ===============
 
+Why We Went Open Source
+------------------------
 
+* Coding a MMO this large is quite the time leach.
+* Simply do not have enough resources to complete this our self.
+* We are a huge supporter of Open Source!
+* We did not want our thousands of hours of work to collect dust.
 
+###### [SIGMA X STUDIOS] IS NOT DEAD, WE ARE JUST WORKING ON SOMETHING OUR SIZE!
 
+[SIGMA X STUDIOS]: http://www.sigmaxstudios.com
 
+Documentation
+------------------
+
+@TODO
+
+I will try to write up something on the code and how the whole flow of development goes on this if i run into some spare time.
+
+######Feel free to just hack it to understand it, but we would love for the community to keep this project going!!!
 
 _______________
 
