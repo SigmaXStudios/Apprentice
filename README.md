@@ -17,10 +17,16 @@ Game Features:
  
 
 *3 Classes featuring a Ranger, Necromancer and Warrior
+
 *A fast paced playing style of Diablo 2, but the features of a full featured MMO like World of Warcraft
+
 *On the road but your buddies want you to play Apprentice? No Problem! you can take Apprentice wherever you go! The game will be available on the PC, Ipad, Iphone and Android devices!
+
 *Online account, with all your information secure on our severs to keep those hackers at bay!
+
 *Advance Creature and NPC AI.
+
 *Full featured Leveling system (That it wont feel like working at a factory to level)
+
 *And so much more that you would expect from a Online Action/RPG!
 
