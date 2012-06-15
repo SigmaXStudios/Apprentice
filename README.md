@@ -13,6 +13,18 @@ Why We Went Open Source
 
 [SIGMA X STUDIOS]: http://www.sigmaxstudios.com
 
+
+Getting Started
+-----------------
+
+* Download and install [UDK March 2011]
+* Drag and drop all the files from this repo into that folder.
+* Say yes to replacing files.
+* Then it should work (Hopfully not tested)
+* The project file is under development "Project Alpha"
+
+[UDK March 2011]: http://download.udk.com/UDKInstall-2011-03-BETA2.exe
+
 Documentation
 ------------------
 
